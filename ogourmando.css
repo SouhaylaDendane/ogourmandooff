@@ -1,0 +1,33 @@
+body{
+	background-image: url("image/backgroundr.svg");
+	padding: 0px;
+	margin: 0px;
+}
+
+.menu{
+	background-color: #e8481b;
+	display: flex;
+	justify-content: space-between;
+
+	padding: 10px 20px;
+}
+
+.logoasso img{
+	height: 100px;
+}
+
+.divgauche{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.divgauche img{
+height: 50px;
+margin: 20px;
+}
+
+.divgauche p{
+	margin: 20px;
+}
+
